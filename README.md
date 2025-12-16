@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile
 
-Hi i'm Ramiro Correa, i'm a IT professional, also a Digital artist.
+Hi i'm Ramiro Correa, i'm a IT professional, code for fun and also a Digital artist.
 
 ## Skills
 
@@ -10,7 +10,6 @@ Hi i'm Ramiro Correa, i'm a IT professional, also a Digital artist.
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&color=242424)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&color=242424)
 ![git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&color=242424)
-![Python](https://img.shields.io/badge/Python-%23F05033.svg?style=flat&logo=python&color=242424)
 ![Krita](https://img.shields.io/badge/Krita-%23F05033.svg?style=flat&logo=krita&color=242424)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=correaramiro)](https://github.com/anuraghazra/github-readme-stats)
