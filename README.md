@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile
 
-Hi i'm Ramiro Correa, i'm a IT professional, code for fun and also a Digital artist.
+Hi i'm Ramiro Correa 🇦🇷, i'm a IT professional, code for fun and also a Digital artist.
 
 ## Skills
 
